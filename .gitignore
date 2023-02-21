@@ -1,4 +1,4 @@
-/input/*
-/__pycache__/
+*/input/*
+*/__pycache__/
 *.pth
 *.pt

@@ -34,7 +34,7 @@ def getMyLogger(logFileName, logDir, fileRecordLevel):
     #3.create file handler, then setLevel
     #create file handler
 
-    fileHandler = logging.FileHandler(logPath,mode='w') #mode a代表append, w代表每次砍舊重寫
+    fileHandler = logging.FileHandler(logPath,encoding="utf-8", mode='w') #mode a代表append, w代表每次砍舊重寫
     fileHandler.setLevel(RecordLevel[fileRecordLevel])
 
     #4.create stram handler, then setLevel
