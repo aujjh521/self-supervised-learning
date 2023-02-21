@@ -1,0 +1,62 @@
+2023-02-21 23:21:25,316 - [line:195] - INFO: load pre trained weight finished
+2023-02-21 23:21:25,463 - [line:210] - INFO: start simCLR training for fine tune, epoch 1
+2023-02-21 23:21:45,891 - [line:126] - INFO: [Epoch: 001] Train      | Loss: 2.3026 | Accuracy: 0.8193
+2023-02-21 23:21:49,473 - [line:148] - INFO: [Epoch: 001] Validation | Loss: 2.3026 | Accuracy: 0.8225
+2023-02-21 23:21:49,473 - [line:90] - INFO: validation loss decreased (inf --> 2.302594).  Saving model ...
+2023-02-21 23:21:49,528 - [line:210] - INFO: start simCLR training for fine tune, epoch 2
+2023-02-21 23:22:05,032 - [line:126] - INFO: [Epoch: 002] Train      | Loss: 2.3026 | Accuracy: 0.8185
+2023-02-21 23:22:07,133 - [line:148] - INFO: [Epoch: 002] Validation | Loss: 2.3026 | Accuracy: 0.8249
+2023-02-21 23:22:07,134 - [line:79] - INFO: > early stopping counter: 1 out of 30
+2023-02-21 23:22:07,134 - [line:210] - INFO: start simCLR training for fine tune, epoch 3
+2023-02-21 23:22:22,083 - [line:126] - INFO: [Epoch: 003] Train      | Loss: 2.3026 | Accuracy: 0.8172
+2023-02-21 23:22:24,263 - [line:148] - INFO: [Epoch: 003] Validation | Loss: 2.3026 | Accuracy: 0.8227
+2023-02-21 23:22:24,264 - [line:79] - INFO: > early stopping counter: 2 out of 30
+2023-02-21 23:22:24,264 - [line:210] - INFO: start simCLR training for fine tune, epoch 4
+2023-02-21 23:22:44,661 - [line:126] - INFO: [Epoch: 004] Train      | Loss: 2.3026 | Accuracy: 0.8177
+2023-02-21 23:22:47,383 - [line:148] - INFO: [Epoch: 004] Validation | Loss: 2.3026 | Accuracy: 0.8237
+2023-02-21 23:22:47,384 - [line:79] - INFO: > early stopping counter: 3 out of 30
+2023-02-21 23:22:47,384 - [line:210] - INFO: start simCLR training for fine tune, epoch 5
+2023-02-21 23:23:07,264 - [line:126] - INFO: [Epoch: 005] Train      | Loss: 2.3026 | Accuracy: 0.8194
+2023-02-21 23:23:10,055 - [line:148] - INFO: [Epoch: 005] Validation | Loss: 2.3026 | Accuracy: 0.8259
+2023-02-21 23:23:10,056 - [line:79] - INFO: > early stopping counter: 4 out of 30
+2023-02-21 23:23:10,056 - [line:210] - INFO: start simCLR training for fine tune, epoch 6
+2023-02-21 23:23:33,323 - [line:126] - INFO: [Epoch: 006] Train      | Loss: 2.3026 | Accuracy: 0.8190
+2023-02-21 23:23:36,313 - [line:148] - INFO: [Epoch: 006] Validation | Loss: 2.3026 | Accuracy: 0.8242
+2023-02-21 23:23:36,313 - [line:79] - INFO: > early stopping counter: 5 out of 30
+2023-02-21 23:23:36,314 - [line:210] - INFO: start simCLR training for fine tune, epoch 7
+2023-02-21 23:23:55,562 - [line:126] - INFO: [Epoch: 007] Train      | Loss: 2.3026 | Accuracy: 0.8179
+2023-02-21 23:23:58,949 - [line:148] - INFO: [Epoch: 007] Validation | Loss: 2.3026 | Accuracy: 0.8248
+2023-02-21 23:23:58,950 - [line:79] - INFO: > early stopping counter: 6 out of 30
+2023-02-21 23:23:58,950 - [line:210] - INFO: start simCLR training for fine tune, epoch 8
+2023-02-21 23:24:18,635 - [line:126] - INFO: [Epoch: 008] Train      | Loss: 2.3026 | Accuracy: 0.8169
+2023-02-21 23:24:21,381 - [line:148] - INFO: [Epoch: 008] Validation | Loss: 2.3026 | Accuracy: 0.8235
+2023-02-21 23:24:21,381 - [line:79] - INFO: > early stopping counter: 7 out of 30
+2023-02-21 23:24:21,382 - [line:210] - INFO: start simCLR training for fine tune, epoch 9
+2023-02-21 23:24:40,270 - [line:126] - INFO: [Epoch: 009] Train      | Loss: 2.3026 | Accuracy: 0.8180
+2023-02-21 23:24:43,076 - [line:148] - INFO: [Epoch: 009] Validation | Loss: 2.3026 | Accuracy: 0.8251
+2023-02-21 23:24:43,077 - [line:79] - INFO: > early stopping counter: 8 out of 30
+2023-02-21 23:24:43,077 - [line:210] - INFO: start simCLR training for fine tune, epoch 10
+2023-02-21 23:25:03,845 - [line:126] - INFO: [Epoch: 010] Train      | Loss: 2.3026 | Accuracy: 0.8180
+2023-02-21 23:25:06,864 - [line:148] - INFO: [Epoch: 010] Validation | Loss: 2.3026 | Accuracy: 0.8237
+2023-02-21 23:25:06,864 - [line:79] - INFO: > early stopping counter: 9 out of 30
+2023-02-21 23:25:06,865 - [line:210] - INFO: start simCLR training for fine tune, epoch 11
+2023-02-21 23:25:28,623 - [line:126] - INFO: [Epoch: 011] Train      | Loss: 2.3026 | Accuracy: 0.8177
+2023-02-21 23:25:32,375 - [line:148] - INFO: [Epoch: 011] Validation | Loss: 2.3026 | Accuracy: 0.8245
+2023-02-21 23:25:32,376 - [line:79] - INFO: > early stopping counter: 10 out of 30
+2023-02-21 23:25:32,376 - [line:210] - INFO: start simCLR training for fine tune, epoch 12
+2023-02-21 23:25:52,387 - [line:126] - INFO: [Epoch: 012] Train      | Loss: 2.3026 | Accuracy: 0.8180
+2023-02-21 23:25:55,335 - [line:148] - INFO: [Epoch: 012] Validation | Loss: 2.3026 | Accuracy: 0.8229
+2023-02-21 23:25:55,335 - [line:79] - INFO: > early stopping counter: 11 out of 30
+2023-02-21 23:25:55,336 - [line:210] - INFO: start simCLR training for fine tune, epoch 13
+2023-02-21 23:26:15,836 - [line:126] - INFO: [Epoch: 013] Train      | Loss: 2.3026 | Accuracy: 0.8174
+2023-02-21 23:26:19,671 - [line:148] - INFO: [Epoch: 013] Validation | Loss: 2.3026 | Accuracy: 0.8251
+2023-02-21 23:26:19,671 - [line:79] - INFO: > early stopping counter: 12 out of 30
+2023-02-21 23:26:19,672 - [line:210] - INFO: start simCLR training for fine tune, epoch 14
+2023-02-21 23:26:39,363 - [line:126] - INFO: [Epoch: 014] Train      | Loss: 2.3026 | Accuracy: 0.8189
+2023-02-21 23:26:42,373 - [line:148] - INFO: [Epoch: 014] Validation | Loss: 2.3026 | Accuracy: 0.8228
+2023-02-21 23:26:42,374 - [line:79] - INFO: > early stopping counter: 13 out of 30
+2023-02-21 23:26:42,374 - [line:210] - INFO: start simCLR training for fine tune, epoch 15
+2023-02-21 23:27:03,942 - [line:126] - INFO: [Epoch: 015] Train      | Loss: 2.3026 | Accuracy: 0.8179
+2023-02-21 23:27:07,799 - [line:148] - INFO: [Epoch: 015] Validation | Loss: 2.3026 | Accuracy: 0.8248
+2023-02-21 23:27:07,799 - [line:79] - INFO: > early stopping counter: 14 out of 30
+2023-02-21 23:27:07,799 - [line:210] - INFO: start simCLR training for fine tune, epoch 16
